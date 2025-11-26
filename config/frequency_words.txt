@@ -1,18 +1,28 @@
 嵌入式
+
 神经网络
 深度学习
+
 TensorFlow
 Pytorch
+
 Yolo
+
 MobileNet
+
 NPU
+
 具身智能
+
 FPGA
+
 量子计算
+
 VR眼镜
 
 恩智浦
 SoC
+
 Zephyr
 
 NextCloud
@@ -22,9 +32,8 @@ DeepSeek
 
 华为
 鸿蒙
-HarmonyOS
 
-比亚迪
+新能源汽车
 
 大疆
 DJI
@@ -57,7 +66,6 @@ AMD
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
